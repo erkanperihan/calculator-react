@@ -8,7 +8,7 @@ function App() {
   const clearInput = () => {
     setInput('');
     setResult('');
-    console.log('silindi')
+    // console.log('silindi')
   };
   const handleInput = (value) => {
     setInput(input + value);
